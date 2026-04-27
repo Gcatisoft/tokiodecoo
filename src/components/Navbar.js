@@ -130,7 +130,7 @@ export default function Navbar() {
 
               {/* CTA WHATSAPP */}
               <a
-                href="https://wa.me/543834927252?text=Hola!%20Quiero%20hacer%20una%20consulta"
+                href="https://wa.me/543834327903?text=Hola!%20Quiero%20hacer%20una%20consulta"
                 target="_blank"
                 className="mt-2 bg-[#c8a27a] text-white text-center py-2 rounded-lg"
               >
